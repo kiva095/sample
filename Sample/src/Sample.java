@@ -6,6 +6,9 @@ public class Sample {
 		//팟 ㅇㅇ
 		System.out.println("hello");
 		System.out.println("hello");
+		System.out.println("하!하!");
+		
+		
 	}
 
 }
